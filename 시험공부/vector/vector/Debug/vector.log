@@ -1,0 +1,3 @@
+﻿  vector.cpp
+C:\Users\achrv\Desktop\2-2\C++\시험공부\vector\vector\vector.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  vector.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\시험공부\vector\Debug\vector.exe

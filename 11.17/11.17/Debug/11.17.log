@@ -1,0 +1,7 @@
+﻿  sorting.cpp
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(57,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(37,6): warning C4101: 'type' :참조되지 않은 지역 변수입니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(37,12): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(37,17): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(37,24): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  11.17.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\11.17\Debug\11.17.exe

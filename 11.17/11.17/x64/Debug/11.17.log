@@ -1,0 +1,7 @@
+﻿  sorting.cpp
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(46,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(55,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(70,12): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(70,17): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\achrv\Desktop\2-2\C++\11.17\11.17\sorting.cpp(70,24): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  11.17.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\11.17\x64\Debug\11.17.exe

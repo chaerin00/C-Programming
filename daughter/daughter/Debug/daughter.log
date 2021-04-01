@@ -1,0 +1,3 @@
+﻿  daughter.cpp
+C:\Users\achrv\Desktop\2-2\C++\daughter\daughter\daughter.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  daughter.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\daughter\Debug\daughter.exe

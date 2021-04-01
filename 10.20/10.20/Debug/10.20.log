@@ -1,0 +1,3 @@
+﻿  1020.cpp
+C:\Users\achrv\Desktop\2-2\C++\10.20\10.20\1020.cpp(56,11): warning C4804: '~': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  10.20.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\10.20\Debug\10.20.exe

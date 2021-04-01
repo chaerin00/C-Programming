@@ -1,0 +1,7 @@
+﻿  huffman.cpp
+C:\Users\achrv\Desktop\2-2\C++\Huffman\Huffman\huffman.cpp(76,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\achrv\Desktop\2-2\C++\Huffman\Huffman\huffman.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\achrv\Desktop\2-2\C++\Huffman\Huffman\huffman.cpp(97,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\achrv\Desktop\2-2\C++\Huffman\Huffman\huffman.cpp(99,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\achrv\Desktop\2-2\C++\Huffman\Huffman\huffman.cpp(143,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Huffman.vcxproj -> C:\Users\achrv\Desktop\2-2\C++\Huffman\Debug\Huffman.exe
